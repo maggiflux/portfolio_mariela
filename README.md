@@ -12,7 +12,7 @@ El tablero Trello con el backlog y las historias de usuario esta disponible en e
 [tablero Trello] (https://trello.com/b/1lCCGjMg/proyectofinal)
 
 ![alt text][logic]
-[logic]: https://raw.githubusercontent.com/maggiflux/portfolio_mariela/data.png
+[logic]: https://raw.githubusercontent.com/maggiflux/portfolio_mariela/master/assets/data.png
 
 
 ## Pasos para levantar el proyecto
